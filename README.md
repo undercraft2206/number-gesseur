@@ -4,9 +4,9 @@ search the number
 for execute it:
 
 
-git clone
+git clone https://github.com/undercraft2206/number-gesseur.git 
 
- https://github.com/undercraft2206/number-gesseur.git 
+ 
 cd number-gesseur
 
 
